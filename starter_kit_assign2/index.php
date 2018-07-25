@@ -1,4 +1,5 @@
 <?php
+// Kyoko Hata
 session_start();
 
 if( !isset($_SESSION['login']) )
